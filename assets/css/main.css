@@ -9164,11 +9164,11 @@ header innter
   }
 }
 .chy-cta-1-content .chy-subtitle-1 {
-  color: #EE4619;
+  color: #fff;
 }
 .chy-cta-1-content .chy-title-1 {
   font-size: 48px;
-  color: #EE4619;
+  color: #000;
   line-height: 1.16;
 }
 @media (max-width: 767px) {
